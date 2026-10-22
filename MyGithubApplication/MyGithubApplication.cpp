@@ -16,6 +16,6 @@ int main() {
         }
         cout << "Factorial of " << n << " = " << factorial << std::endl;
     }
-
+    cout << "Thank you for using the program" << endl;
     return 0;
 }
